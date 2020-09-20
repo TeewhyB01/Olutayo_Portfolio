@@ -1,7 +1,7 @@
 # Olutayo_Portfolio
 Data Science Portfolio
 
-# [Project 1: Covid Data Analysis: Project Overview]{https://github.com/TeewhyB01/COVID19_Analysis}
+# [Project 1: Covid Data Analysis: Project Overview](https://github.com/TeewhyB01/COVID19_Analysis)
 <ul>
 <li>Analyzed the trend of infected patients accrossed several countries</li>
 <li>Ranked countries that had highest number of infected patients to lowest infected</li>
