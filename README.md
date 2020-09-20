@@ -11,7 +11,7 @@ Data Science Portfolio
 <li>Ranked countries that had the highest number of revovered cases to the lowest</li>
 </ul>
 
-![](https://github.com/TeewhyB01/Olutayo_Portfolio/blob/master/Images/covid10cases.png)
+![](/Images/covid10cases.png)
 
 
 # [Project 2: Company Data Analysis: Project Overview](https://github.com/TeewhyB01/Company_Data)
@@ -23,5 +23,5 @@ Data Science Portfolio
   <li>Analyzed the total amount of loan paid in each department and outstanding amount</li>
 </ul>
 
-![](https://github.com/TeewhyB01/Olutayo_Portfolio/blob/master/Images/clientsperbranch.png)
+![](/Images/clientsperbranch.png)
 
