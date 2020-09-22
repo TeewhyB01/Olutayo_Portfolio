@@ -25,7 +25,7 @@ Data Science Portfolio
 
 ![](/Images/clientsperbranch.png)
 
-# [Project 3: Machine Learning Algorithms : Project Overview](https://github.com/TeewhyB01/Company_Data)
+# [Project 3: Machine Learning Algorithms : Project Overview](https://github.com/TeewhyB01/Machine_Learning_Algorithms)
 <ul>
   <li>Program to decide the best machine learning algorithm to use for a particular data set</li>
   <li>KNeigbors Classifier Algorithm Implementation</li>
@@ -34,3 +34,14 @@ Data Science Portfolio
 </ul>
 
 ![](/Images/machine-learning-ecommerce-blog-1.jpg)
+
+# [Project 4: Uber Pickup Analysis : Project Overview](https://github.com/TeewhyB01/Uber_Pickup)
+<ul>
+  <li>Uber pickup analysis in New York City in 2014 </li>
+  <li>Mean Value of uber pickup spanning through the days of the week (BAR CHART)</li>
+  <li>Mean Value in percentage of uber pickup spanning through the days of the week (DONUT CHART)</li>
+  <li>Analyzed how uber is being order across hours during the day. </li>
+  <li>Analyzed the amount of rides different riders had over the period of months covered (APRIL - SEPT 2014)</li>
+</ul>
+
+![](/Images/uber.png)
