@@ -25,3 +25,12 @@ Data Science Portfolio
 
 ![](/Images/clientsperbranch.png)
 
+# [Project 3: Machine Learning Algorithms : Project Overview](https://github.com/TeewhyB01/Company_Data)
+<ul>
+  <li>Program to decide the best machine learning algorithm to use for a particular data set</li>
+  <li>KNeigbors Classifier Algorithm Implementation</li>
+  <li>NAIVE BAYES CLASSIFIER Algorithm Implementation</li>
+  <li>SUPPORT VECTOR MACHINE Algorithm Implementation</li>
+</ul>
+
+![](/Images/machine-learning-ecommerce-blog-1.jpg)
