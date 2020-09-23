@@ -42,7 +42,7 @@ Data Science Portfolio
   <li>Uber pickup analysis in New York City in 2014 </li>
   <li>Mean Value of uber pickup spanning through the days of the week (BAR CHART)</li>
   <li>Mean Value in percentage of uber pickup spanning through the days of the week (DONUT CHART)</li>
-  <li>Analyzed how uber is being order across hours during the day. (00:00hrs : 23:00 hrs) </li>
+  <li>Analyzed how uber is being ordered hourly during the day. (00:00hrs : 23:00 hrs) </li>
   <li>Analyzed the amount of rides different riders had over the period of months covered (APRIL - SEPT 2014)</li>
 </ul>
 
