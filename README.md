@@ -1,4 +1,4 @@
-# Olutayo OLADEINBO's Portfolio
+# Olutayo OLADEINBO's Portfolio #[View CV](https://github.com/TeewhyB01/COVID19_Analysis)
 Data Science Portfolio
 
 # [Project 1: Covid Data Analysis: Project Overview](https://github.com/TeewhyB01/COVID19_Analysis)
