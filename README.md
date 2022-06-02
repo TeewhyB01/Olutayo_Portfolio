@@ -1,7 +1,17 @@
 # Olutayo OLADEINBO's Portfolio [View CV](https://github.com/TeewhyB01/CV/blob/master/Olutayo%20Oladeinbo%20Resume%20New.docx)
 Data Science Portfolio
 
-# [Project 1: Covid Data Analysis: Project Overview](https://github.com/TeewhyB01/COVID19_Analysis)
+# [Stroke Prediction: Project Overview](https://github.com/TeewhyB01/StrokePrediction)
+<ul>
+<li>Stroke Prediction using 5 Machine Learning Algorithms and ANN</li>
+<li>Visualized Important Features in the dataset, also answered some assumptions and Research Questions</li>
+<li>Handled the imbalance in the dataset using an oversampling method SMOTE</li>
+<li>Scaled my data for better accuracy</li>
+<li>Saved and Deployed by best model on a streamlit website for collecting new patients data and aking prediction</li>
+</ul>
+![](/Images/StrokePrediction.png)
+
+# [Covid Data Analysis: Project Overview](https://github.com/TeewhyB01/COVID19_Analysis)
 <ul>
 <li>Analyzed the trend of infected patients accross several countries.</li>
 <li>Ranked countries with number of infected patients in descending order.</li>
@@ -14,7 +24,7 @@ Data Science Portfolio
 ![](/Images/covid10cases.png)
 
 
-# [Project 2: Company Data Analysis: Project Overview](https://github.com/TeewhyB01/Company_Data)
+# [Company Data Analysis: Project Overview](https://github.com/TeewhyB01/Company_Data)
 <ul>
   <li>Analyzed customers in each branch by gender.</li>
   <li>Showed the trend of how customers joined the company over time.</li>
@@ -25,7 +35,7 @@ Data Science Portfolio
 
 ![](/Images/clientsperbranch.png)
 
-# [Project 3: Machine Learning Algorithms : Project Overview](https://github.com/TeewhyB01/Machine_Learning_Algorithms)
+# [Machine Learning Algorithms : Project Overview](https://github.com/TeewhyB01/Machine_Learning_Algorithms)
 <ul>
   <li>Program to decide the best machine learning algorithm to use on a particular dataset</li>
   <li>KNeigbors Classifier Algorithm Implementation.</li>
