@@ -9,7 +9,7 @@ Data Science Portfolio
 <li>Scaled my data for better accuracy</li>
 <li>Saved and Deployed by best model on a streamlit website for collecting new patients data and aking prediction</li>
 </ul>
-![](/Images/StrokePrediction.png)
+![](/Images/StrokePrediction.jpg)
 
 # [Covid Data Analysis: Project Overview](https://github.com/TeewhyB01/COVID19_Analysis)
 <ul>
