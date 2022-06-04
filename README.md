@@ -1,4 +1,4 @@
-# Olutayo OLADEINBO's Portfolio [View CV](https://github.com/TeewhyB01/CV/blob/master/Olutayo%20Oladeinbo%20Resume%20New.docx)
+# Olutayo OLADEINBO's Portfolio [View CV](https://github.com/TeewhyB01/CV/blob/master/OLUTAYO-OLADEINBO%20RESUME%20LATEST.pdf)
 Data Science Portfolio
 
 # [Stroke Prediction: Project Overview](https://github.com/TeewhyB01/StrokePrediction)
